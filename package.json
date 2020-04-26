@@ -1,7 +1,7 @@
 {
-  "name": "static",
+  "name": "react-practice",
   "version": "1.0.0",
-  "description": "This is a static template with no bundling",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "start": "serve"
@@ -11,9 +11,9 @@
     "url": "git+https://github.com/codesandbox-app/static-template.git"
   },
   "keywords": [
+    "static",
     "template",
-    "codesandbox",
-    "static"
+    "codesandbox"
   ],
   "author": "Ives van Hoorne",
   "license": "MIT",
